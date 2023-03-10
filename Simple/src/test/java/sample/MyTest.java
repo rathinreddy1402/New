@@ -10,5 +10,6 @@ public void t1()
 	System.out.println("bye");
 	System.out.println("gud evng");
 	System.out.println("Gud Mrng");
+	System.out.println("welcome");
 }
 }
