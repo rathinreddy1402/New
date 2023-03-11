@@ -11,5 +11,6 @@ public void t1()
 	System.out.println("gud evng");
 	System.out.println("Gud Mrng");
 	System.out.println("welcome");
+	System.out.println("Babye");
 }
 }
